@@ -40,3 +40,4 @@ In this project, family income is assumed to be the sources paid to children, ho
 1. Family income increased in Maryland from 2014-2018.
 2.	Median family income range in Maryland fluctuates.
 3.	Total public-school enrollment number does not correlate to family income. More specific data required for further study.
+## Original data

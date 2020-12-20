@@ -8,5 +8,10 @@ The major question that this project tried to solve is how family income potenti
 1. Investigate 2014-2018 family income and distribution change in Maryland.
 2. Study correlation between family income and public-school enrollment.
 ## Data decision
-### Aim 1: Investigate 2014-2018 family income and distribution change in Maryland
-To study family income change in Maryland from 2014 to 2018, median and mean family income data from 2014 to 2018 in Maryland was acquired from [US Census Bureau](https://data.census.gov/cedsci/)
+### Aim 1: Investigate 2014-2018 family income and distribution change in Maryland *Italic*
+To study family income change in Maryland from 2014 to 2018, median and mean family income data from 2014 to 2018 in Maryland was acquired from [US Census Bureau](https://data.census.gov/cedsci/). In this data, distribution in different income ranges were also included, therefore these data were also visualized to better analyze the income structure in Maryland.  
+Family income in 10 counties in Maryland with highest population were also visualized. To pick out these 10 counties, Maryland population estimation from 2014 to 2018 were acquired from [Maryland State Open Data](https://opendata.maryland.gov/). Median income data of Maryland counties were acquired from the same data source. 
+### Aim 2: Study correlation between family income and public-school enrollment *Italic*
+Before studying the correlation, public school enrollment change of different grade levels were investigated using data obtained from [Maryland State Open Data](https://opendata.maryland.gov/). After analyzing the trend of public-school enrollment, the correlation coefficient of enrollment count and family income is calculated. 
+## Data analysis result
+

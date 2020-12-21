@@ -41,3 +41,11 @@ In this project, family income is assumed to be the sources paid to children, ho
 2.	Median family income range in Maryland fluctuates.
 3.	Total public-school enrollment number does not correlate to family income. More specific data required for further study.
 ## Original data
+[2010-2019 Maryland population estimation](https://raw.githubusercontent.com/zpren1998/2014-2018-Maryland-Family-Income-Change-and-Public-School-Enrollment/main/Population_Estimates_2010-2019.csv)
+[2014 family income data](https://raw.githubusercontent.com/zpren1998/2014-2018-Maryland-Family-Income-Change-and-Public-School-Enrollment/main/Maryland_Household_Income_in_2014.csv)
+[2015 family income data](https://raw.githubusercontent.com/zpren1998/2014-2018-Maryland-Family-Income-Change-and-Public-School-Enrollment/main/Maryland_Household_Income_in_2015.csv)
+[2016 family income data](https://raw.githubusercontent.com/zpren1998/2014-2018-Maryland-Family-Income-Change-and-Public-School-Enrollment/main/Maryland_Household_Income_in_2016.csv)
+[2017 family income data](https://raw.githubusercontent.com/zpren1998/2014-2018-Maryland-Family-Income-Change-and-Public-School-Enrollment/main/Maryland_Household_Income_in_2017.csv)
+[2018 family income data](https://raw.githubusercontent.com/zpren1998/2014-2018-Maryland-Family-Income-Change-and-Public-School-Enrollment/main/Maryland_Household_Income_in_2018.csv)
+[2010-2018 family income data in Maryland counties](https://raw.githubusercontent.com/zpren1998/2014-2018-Maryland-Family-Income-Change-and-Public-School-Enrollment/main/Maryland_Median_Household_Income_By_Year_With_Margin_Of_Error__2010-2018.csv)
+[2009-2019 public-school enrollment data in Maryland counties](https://raw.githubusercontent.com/zpren1998/2014-2018-Maryland-Family-Income-Change-and-Public-School-Enrollment/main/Maryland_Public_School_Enrollment_Trends__Pre-Kindergarten_to_Grade_12__2009-2019.csv)
